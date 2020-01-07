@@ -1,2 +1,4 @@
 # Forum-for-Learning-C++
-北邮程序设计课设
+C++ course project
+
+Design a C++ study web forum based on C++, which also requires UI interface.
